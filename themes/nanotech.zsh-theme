@@ -1,4 +1,4 @@
-PROMPT='%F{cyan}%3c%F{blue}%F{yellow}>%f'
+PROMPT='%F{cyan}%3c%F{blue}%F{yellow} $?>%f'
 RPROMPT='$(git_prompt_info) | %F{cyan}%D{%L:%M} %F{yellow}%D{%p}%f     '
 
 ZSH_THEME_GIT_PROMPT_PREFIX="%F{yellow}"
